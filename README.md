@@ -45,8 +45,6 @@ You don’t need to understand every line of code — just send me your file, I�
 
 ## 📸 Before & After (Visuals)
 
-> *(Insert screenshots here – e.g. messy sheet side-by-side with cleaned version, or a chart generated)*  
->
 > ![Before vs After](Before_and_after.jpg)
 
 ---
