@@ -47,8 +47,7 @@ You don’t need to understand every line of code — just send me your file, I�
 
 > *(Insert screenshots here – e.g. messy sheet side-by-side with cleaned version, or a chart generated)*  
 >
-> ![Before vs After](path/to/image1.png)  
-> ![Generated Report](path/to/image2.png)
+> ![Before vs After](Before_and_after.jpg)
 
 ---
 
