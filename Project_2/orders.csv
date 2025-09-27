@@ -1,0 +1,501 @@
+customer_name,product,quantity,price
+Misty Fry,Marker,5,25
+Melissa Roberts,Highlighter,19,30
+Mary Rivera,Pen,11,10
+Lance Lambert,Marker,15,25
+Thomas Williams,Paper Pack,15,120
+Michael Dorsey,Pen,6,10
+Joann Torres,Marker,20,25
+Kathryn Willis,Notebook,8,50
+Alyssa Madden,File Folder,5,40
+Olivia Chang,Pencil,14,5
+Misty Parker,File Folder,11,40
+Francisco Smith,Stapler,16,80
+Stephanie Yang,Pencil,8,5
+Eric Vega,Highlighter,4,30
+Alan Jones,Eraser,10,3
+John Jones,Highlighter,2,30
+Vanessa Williams,Eraser,9,3
+Shawn Murphy,Pen,18,10
+Courtney Kramer,File Folder,3,40
+Bryan Short,Marker,3,25
+Eric Martinez,Pen,12,10
+Troy Nguyen,Marker,15,25
+John Wallace,Highlighter,18,30
+Erika Martin,Eraser,19,3
+Justin Price,Pencil,11,5
+Larry Peters,Notebook,16,50
+Molly Morrison,File Folder,3,40
+Amber Kelly,File Folder,14,40
+Larry Holmes,File Folder,20,40
+Gwendolyn Ellison,Pencil,3,5
+Marie Garrison,Pencil,13,5
+Jesse Lee,Paper Pack,15,120
+Natalie Howard,Eraser,9,3
+Kellie Carey,Eraser,11,3
+Jessica Schultz,Paper Pack,9,120
+Jeremy Smith,Notebook,9,50
+John Carroll,Eraser,16,3
+Justin Clark,File Folder,5,40
+Jessica Wheeler,Highlighter,2,30
+Christina Wade,Stapler,1,80
+Robert Simmons,Marker,14,25
+Sara Cook,Pencil,12,5
+Ryan Lawson,Stapler,12,80
+Richard Gates,File Folder,12,40
+Daniel Rodriguez,Pencil,13,5
+Jeremy Larson,Eraser,19,3
+Stephanie Alvarez,Pencil,15,5
+Michael Montgomery,File Folder,6,40
+Brenda Olson,Marker,12,25
+Meredith Jones,Highlighter,7,30
+Dale Johnson,Pen,2,10
+Cindy Diaz,Pencil,13,5
+Laura Cross,Highlighter,4,30
+Thomas Green,Pencil,9,5
+Tracy Patel,Stapler,17,80
+Sarah Davis,Pencil,19,5
+Catherine Goodman,Pen,12,10
+Brandon Bennett,Highlighter,11,30
+John Johnson,Stapler,15,80
+Daniel Tucker,File Folder,16,40
+Rachel Hernandez,Highlighter,3,30
+Lisa Beasley,Pen,14,10
+Derek Villarreal,Paper Pack,20,120
+Thomas Young,Notebook,11,50
+John Elliott,File Folder,16,40
+Adam Collins,Marker,1,25
+Anthony Jackson,Glue,19,15
+Patricia Burgess,Marker,14,25
+Robert Lawrence,Glue,4,15
+Tonya Hernandez,Marker,2,25
+Cynthia Shelton,Pen,5,10
+Lauren Johnson,Eraser,2,3
+Nicholas Daniel,Pen,7,10
+Miguel Callahan,Pen,5,10
+Dale Hines,Marker,4,25
+Jessica Cobb,Notebook,5,50
+Carrie Acevedo,Highlighter,11,30
+Julie Frank,File Folder,1,40
+Ariana Smith,File Folder,2,40
+Cheyenne Farmer,Pen,8,10
+Kevin Smith,Pencil,9,5
+Dale Yang,Stapler,3,80
+Karen Cunningham DDS,Eraser,7,3
+Leslie Montgomery,Eraser,11,3
+Heidi Cruz,Glue,15,15
+Donald Hurley,Marker,6,25
+Zachary Hernandez,Notebook,17,50
+Mrs. Kathleen Ballard,Marker,13,25
+Deborah Williams,Glue,16,15
+Bryan Wilkins,Glue,4,15
+Aimee Vega,Pen,7,10
+Adam Koch,Pen,19,10
+Angela Fletcher,Stapler,16,80
+Mary Pratt,Eraser,4,3
+Frank Bates,File Folder,15,40
+Andrew Johnson,Glue,8,15
+Eric Mccullough,Pen,19,10
+Allison Ferguson,Paper Pack,15,120
+Daniel Nielsen,Highlighter,15,30
+Anne Rojas,Notebook,18,50
+Scott Hansen,Highlighter,12,30
+Patricia Potter,Stapler,2,80
+William Evans,Pencil,20,5
+Sarah Goodwin,File Folder,6,40
+Andrew Larsen,Notebook,20,50
+Kevin Hughes,Glue,5,15
+Brian Johnson,Eraser,12,3
+Brian Johnson,Paper Pack,5,120
+Carol Moore,Pen,20,10
+Monica Brown,Pen,17,10
+Molly Vargas,File Folder,6,40
+Tanner Atkins,Stapler,13,80
+Linda Brown,Pencil,10,5
+George Jackson,Notebook,13,50
+Amanda Gross,Pencil,9,5
+James Cook,Pen,12,10
+Kimberly Barker,Highlighter,3,30
+Jacqueline Moore,Eraser,9,3
+Carolyn Mcdowell,Paper Pack,13,120
+Sergio Ford,Stapler,14,80
+James Aguirre,Eraser,8,3
+Rachel Mann,File Folder,6,40
+Dr. Justin Diaz,File Folder,11,40
+Amy Johnson,Notebook,1,50
+Allen Odonnell,Pencil,1,5
+Kayla Kim,Eraser,19,3
+Charles Kim,Glue,2,15
+Michelle Griffith,Highlighter,15,30
+Gabriel Moore,File Folder,12,40
+Anna Morris,File Folder,17,40
+Cynthia Macias,File Folder,7,40
+Jessica Armstrong,Pen,20,10
+Sierra Carter,Paper Pack,7,120
+Marvin Porter MD,Stapler,7,80
+Tiffany Schmitt,Paper Pack,8,120
+Paula Richards,File Folder,17,40
+Nancy Sanchez,Eraser,20,3
+Thomas Lewis,Marker,4,25
+Christina Lewis DVM,Stapler,16,80
+Levi Smith,Stapler,4,80
+Scott Garrett,Pen,14,10
+Crystal Hill,Notebook,14,50
+Scott Hopkins DDS,Stapler,13,80
+Jessica Walters,Pencil,5,5
+Kelly West,Pen,2,10
+Michael Reeves,Highlighter,18,30
+Trevor Lawson,Notebook,2,50
+Lisa Gregory,Paper Pack,8,120
+Matthew Wells,Eraser,18,3
+Mrs. Tamara Roberts,Notebook,2,50
+Kimberly Fuller,File Folder,17,40
+John Fritz,Marker,17,25
+Natasha Johnson,Eraser,19,3
+Jesse Rogers,Marker,16,25
+Olivia Key,File Folder,14,40
+Peter Ortiz,Pen,10,10
+Brandon Aguirre,Eraser,20,3
+Anna Ellis,Highlighter,17,30
+Christine Mathis,Stapler,1,80
+Calvin Mullins,Pencil,8,5
+Kathryn Bautista,Paper Pack,1,120
+Mary Bates,Notebook,10,50
+Mary Ortiz,Pencil,1,5
+Melissa Knight,Pencil,17,5
+Nicholas Smith,Pencil,6,5
+Renee Johnson,File Folder,4,40
+Brett Vega,Highlighter,17,30
+David Moore,Pencil,4,5
+Jennifer Nelson,Notebook,7,50
+Daniel Rodriguez,Highlighter,5,30
+Nancy Fisher,Pencil,5,5
+Dr. Kristie Morris,Highlighter,18,30
+Cassandra Hoffman,Paper Pack,10,120
+Michael Baker,Pencil,14,5
+William Watts,Paper Pack,2,120
+Jessica Smith,Glue,6,15
+Michele Miller,Paper Pack,19,120
+Brittany Nelson,Stapler,5,80
+Michael Hernandez,Pen,1,10
+Karen Lee,Glue,13,15
+Karen Anderson,Highlighter,6,30
+John Carter,Notebook,10,50
+Melissa Larsen,Pencil,9,5
+Sarah Dennis,Highlighter,7,30
+Jennifer Scott,Paper Pack,15,120
+Ann Smith,Pencil,8,5
+Brian Schwartz,File Folder,10,40
+Deborah Jensen,Eraser,11,3
+Sarah Simmons,Eraser,13,3
+Ryan Pugh,Marker,19,25
+Eric Jones,Highlighter,5,30
+Keith Wiley,Notebook,6,50
+Crystal Abbott,Eraser,2,3
+Rebecca Hernandez,Pen,9,10
+Eric Johnson Jr.,Stapler,2,80
+Kristin Kaufman,Stapler,8,80
+Emily Bonilla,Pencil,19,5
+Karen Chapman,Glue,11,15
+Thomas Smith,Notebook,3,50
+Kristopher Myers,Glue,10,15
+Mark Gill,Glue,3,15
+Theresa Horton,Marker,12,25
+Dr. Richard Fletcher MD,Glue,12,15
+Jose Howard,Marker,18,25
+Regina Gregory,Pen,12,10
+Mark Mullen,Highlighter,13,30
+Cheyenne Greer,Stapler,2,80
+Kathleen Salinas,Highlighter,13,30
+Mario Roberts,Highlighter,16,30
+Brittany Bailey,Eraser,19,3
+Nicole Martin,Paper Pack,20,120
+Nicholas Fry,Stapler,11,80
+Troy Bass,Stapler,12,80
+Adam Nixon,Pen,19,10
+Lisa Hall,Glue,1,15
+Paul Welch,Stapler,1,80
+Henry Lee,Marker,16,25
+Laura Bullock,Notebook,8,50
+Molly Eaton,Marker,6,25
+Victoria Knapp,Highlighter,11,30
+Melissa Myers,Marker,9,25
+Stephanie Palmer,Eraser,11,3
+Andrew Phillips,File Folder,7,40
+Richard Williams,Glue,18,15
+Wendy Palmer,Marker,13,25
+Debra Hardin,Pen,15,10
+Janet Moore,File Folder,20,40
+Mr. George Rodriguez MD,Notebook,3,50
+Miguel Kerr,Paper Pack,20,120
+Rhonda Brown,Notebook,8,50
+David Thompson MD,File Folder,18,40
+Michelle Kirby,File Folder,6,40
+Kelli Moore,Marker,4,25
+Marie Hughes,Pen,12,10
+Corey Cook,Eraser,9,3
+Andre Mitchell,File Folder,14,40
+Lisa Lara,Glue,14,15
+Carlos Bray,Highlighter,5,30
+John Gillespie,Marker,7,25
+George Phillips,Stapler,16,80
+Mrs. Theresa Smith,Paper Pack,3,120
+Cody Nelson,Highlighter,6,30
+Chelsea Mosley,Highlighter,19,30
+Caleb Williams,File Folder,13,40
+David Hubbard,Pen,3,10
+Stephen Morgan,Pen,19,10
+Deanna Duran,Notebook,10,50
+Debra Carter,Eraser,10,3
+Caroline Yates,Pencil,1,5
+Natasha Singh,Notebook,19,50
+Jesus Hunt,Notebook,1,50
+Lori Orr,File Folder,4,40
+Savannah Reed,Paper Pack,9,120
+Darren Jensen,Notebook,16,50
+Deborah Hayes,Eraser,8,3
+Alexandra Stephens,Pen,14,10
+Vanessa Alexander,Paper Pack,18,120
+Rebecca Wolf,Marker,4,25
+Kevin Andrews,Notebook,18,50
+Candice Mckay,Paper Pack,20,120
+Emily Thompson,Highlighter,17,30
+April Rodriguez,Marker,14,25
+Heidi Weber,Glue,12,15
+Tami Brennan,Glue,17,15
+Elizabeth Martinez,Eraser,11,3
+Tyler Moore,Stapler,20,80
+Shelby White,Glue,19,15
+William Bell,Notebook,1,50
+John Johnson,Notebook,10,50
+Morgan Sanchez,File Folder,14,40
+Shannon Sellers,Notebook,13,50
+Tracie Jenkins,Notebook,8,50
+Alan Bentley,Stapler,14,80
+Justin Hansen,Notebook,14,50
+Kaylee Kerr,Notebook,11,50
+Sherry Tran,Eraser,15,3
+Richard Morgan,Paper Pack,13,120
+Timothy Mckenzie,Paper Pack,18,120
+Olivia Hill,Glue,1,15
+Melody Gonzalez,Notebook,15,50
+Selena Wood,Paper Pack,3,120
+Christina Jones,Paper Pack,10,120
+Carl Elliott,Paper Pack,20,120
+Danielle Marshall,Highlighter,12,30
+Omar Torres,Pen,1,10
+Christopher Rogers,Stapler,15,80
+Emily Nichols,Eraser,20,3
+Christopher Jordan,Highlighter,4,30
+Jonathan Bradley,Marker,16,25
+Kathleen White,File Folder,13,40
+Chelsea Kennedy,Stapler,7,80
+Justin Bowers,Paper Pack,9,120
+Amy Payne,Notebook,3,50
+Deanna Jackson,Pencil,9,5
+Ryan Turner,Notebook,5,50
+Maria Wright,Paper Pack,18,120
+Michelle Tanner,Stapler,2,80
+Anna Green,Paper Pack,13,120
+Ivan Hess,Pencil,14,5
+Matthew Chase,File Folder,7,40
+Tommy Hensley,Notebook,15,50
+Laura Robles,Highlighter,15,30
+Tiffany Burns,Pen,3,10
+Grant Sanford,Marker,7,25
+Sean Ray,Stapler,7,80
+Carol Powell,Marker,14,25
+Joan Jones,Highlighter,10,30
+Caroline Holden,Notebook,19,50
+Jacob Jones,Paper Pack,19,120
+Russell Foster,Pencil,17,5
+Joshua Howard,Notebook,2,50
+John Frazier,Pencil,14,5
+Matthew Johnson,Pencil,4,5
+Tiffany Gilmore,File Folder,8,40
+Jack Sanchez,Paper Pack,16,120
+Becky Park,Notebook,14,50
+Lindsay Lopez,Pencil,18,5
+Jackie Garza,Eraser,1,3
+James Maxwell DDS,Pen,19,10
+Emily Smith,Pencil,15,5
+Luis Burgess,Pen,6,10
+John Lopez,Glue,12,15
+Alicia Melton,Eraser,13,3
+Anthony Black PhD,Paper Pack,2,120
+Monique Savage,Paper Pack,20,120
+Brianna Best,File Folder,4,40
+Jacqueline Turner,Paper Pack,14,120
+Jennifer Lopez,Eraser,7,3
+Leah Rios,Eraser,9,3
+Connor Flores,Paper Pack,18,120
+Katherine Wilson,Pencil,16,5
+Laura Lam,Highlighter,15,30
+George Farrell,File Folder,15,40
+George Richards,Marker,5,25
+Lori Riley,Pencil,16,5
+Joan Ross,Glue,2,15
+Joshua Christensen,Notebook,8,50
+Amy Russell,Stapler,7,80
+David Brown,Eraser,8,3
+Jeffrey Rogers,Glue,19,15
+John Chavez,Stapler,4,80
+James Klein,File Folder,10,40
+Brian Flores,Stapler,15,80
+Christopher Perez,Pencil,19,5
+Lori Jackson,Eraser,19,3
+John Sweeney,Stapler,7,80
+Kimberly Johnston,Pen,16,10
+Pam Hale,Notebook,10,50
+Yesenia Johnson,Pen,16,10
+Jeffrey Erickson Jr.,File Folder,1,40
+Robert Adkins,Eraser,8,3
+Lauren Smith,Marker,8,25
+Karen Gomez,Glue,4,15
+Jeffrey Gillespie Jr.,Pencil,6,5
+Paul Booth MD,Highlighter,19,30
+Marissa Hanson,Notebook,19,50
+Bruce King II,Glue,18,15
+Anna Ferguson,Stapler,7,80
+Kevin Robertson II,Pen,4,10
+Jennifer Davis,Stapler,20,80
+Bridget King,Eraser,12,3
+Gary Johnson,Highlighter,19,30
+Taylor Terry,Stapler,19,80
+Anthony Goodman,Marker,8,25
+Nathan Wood,Glue,7,15
+Brian Brown,Marker,19,25
+David Taylor,Marker,6,25
+Natalie Smith,Pen,13,10
+Katie Crane,File Folder,1,40
+Derek Briggs,Pencil,13,5
+Mary Murphy,Marker,20,25
+Anna Thompson,Eraser,8,3
+Jordan Williamson,File Folder,12,40
+Larry Franklin,Stapler,10,80
+Kenneth Carpenter,Paper Pack,6,120
+Connie Meyers,Paper Pack,9,120
+Kevin Ellis,File Folder,13,40
+Brett Smith,Highlighter,11,30
+Laura Hernandez,Notebook,1,50
+Mr. Mark Cordova PhD,Marker,9,25
+Jorge Lyons,Eraser,12,3
+Samantha Huang,Pen,18,10
+Leslie Ross,Glue,1,15
+Charles Allen,Pencil,6,5
+Amanda Duncan,Stapler,19,80
+Elizabeth Robertson,Glue,11,15
+Allison Mendez,Stapler,9,80
+Faith Elliott,Paper Pack,6,120
+Richard Reilly,Pen,15,10
+Scott Collins,Pen,16,10
+Sherri Rich,Eraser,10,3
+Ashley Gomez,Marker,8,25
+Amanda Shelton,Notebook,18,50
+Adrian Gomez,Stapler,5,80
+Misty Brown,Notebook,10,50
+Scott Tucker,Stapler,8,80
+Latasha Dunn,Glue,11,15
+John Perez,File Folder,9,40
+Jeffery Meyer,Pencil,9,5
+Emily Bryant,Highlighter,14,30
+Diana Dennis,Glue,8,15
+Alexis Miller,Pencil,1,5
+David Reynolds,Notebook,14,50
+Clifford Pittman PhD,Stapler,17,80
+Tyler Hansen,Notebook,3,50
+Mallory Hughes,Stapler,17,80
+Eric Clark,Highlighter,3,30
+Jessica Walker,Notebook,4,50
+Lisa Kelly,Stapler,3,80
+Tammy Woods,Pen,3,10
+Christine Williams,Highlighter,15,30
+Michelle Bender,Paper Pack,8,120
+Amber Black,Marker,17,25
+Brian Grimes,Stapler,2,80
+Julie Hamilton,File Folder,19,40
+Melissa Barker,Marker,5,25
+Karen Scott,Pen,6,10
+Stephen Davis,File Folder,4,40
+Theresa Lindsey,Marker,12,25
+John Hahn,File Folder,11,40
+Anna Patel,Notebook,18,50
+Linda Cook,Stapler,12,80
+Christian Perry,Glue,15,15
+Kevin Chang,Paper Pack,12,120
+Kiara Flores,Eraser,4,3
+Gregory Campbell,Glue,20,15
+Bradley Huang,Marker,5,25
+Sarah Holmes,Marker,15,25
+Dana Mckinney,Eraser,6,3
+Richard Blake,Marker,1,25
+Mr. Brian Newton,Pen,19,10
+Angel Lewis,Notebook,17,50
+William Becker,Pencil,14,5
+Jeremy Shaffer,Paper Pack,18,120
+Jeffery Dixon,File Folder,16,40
+Timothy Pierce,Pencil,18,5
+Stephanie Rodriguez,Paper Pack,5,120
+Devin Jones,Pen,16,10
+Jamie Anderson,Stapler,19,80
+Nicole Nunez,Marker,7,25
+Alyssa Blanchard,Notebook,18,50
+Cassandra Johnson,Stapler,11,80
+Samuel Smith,Stapler,14,80
+Richard Martinez,Marker,20,25
+Sarah Huynh,Eraser,6,3
+Michaela Castillo,File Folder,11,40
+Steven Vazquez,File Folder,18,40
+Julie Martinez,Notebook,2,50
+Karen Wright,Paper Pack,11,120
+Maria Gilbert,Pencil,2,5
+Jessica Mcpherson,Notebook,15,50
+William Mason,Pencil,12,5
+Marcus Bass,Notebook,19,50
+Matthew Davis,File Folder,14,40
+Amber Rodriguez,Stapler,3,80
+Leslie Young,Stapler,5,80
+Laurie Flores,Pen,18,10
+Mary Bryant,File Folder,2,40
+Amy Hill,Eraser,7,3
+Kathryn Foster,Notebook,17,50
+Kyle Mcclure,File Folder,1,40
+Mark Gutierrez,Paper Pack,10,120
+Chad Hall,Eraser,6,3
+Anthony Santos,Notebook,9,50
+Jonathan Griffin,Pen,18,10
+Stephen Coleman,Pen,9,10
+Mr. Michael Oconnell,Stapler,15,80
+Cory Johnson DDS,Pencil,3,5
+Scott Flores,Stapler,4,80
+Laura Mayer,Paper Pack,8,120
+Zachary Mckinney,Highlighter,9,30
+Jesse Harris,Glue,10,15
+Melinda Taylor,File Folder,19,40
+Elizabeth Torres,Pencil,6,5
+Mr. Chad Bell DDS,File Folder,18,40
+Jessica Snyder,Pen,17,10
+Joanne Rice,Pen,18,10
+Erin Villa,Notebook,1,50
+Jacqueline Harris,Pencil,15,5
+John Lucero,Highlighter,9,30
+Rachel Abbott,Notebook,3,50
+Shannon Lopez,Stapler,15,80
+Steven Riggs,Marker,12,25
+Jordan Rodriguez,Highlighter,7,30
+Paul Kennedy,Stapler,3,80
+Ashlee Velasquez,Marker,19,25
+Michael Davis,Highlighter,20,30
+Darlene Martinez,Highlighter,4,30
+Clifford Murphy,Glue,12,15
+Cathy Saunders,Notebook,1,50
+Jennifer Patel,Marker,11,25
+Charlotte Jackson,Notebook,18,50
+John Marsh,File Folder,10,40
+Whitney Hill,Glue,1,15
+Kayla Scott,Pencil,15,5
+Susan King,Pencil,17,5
+Megan Frey,Marker,7,25
+Larry Thomas,Marker,6,25
+Chad Serrano,Marker,5,25
+Mr. Alexander Benjamin Jr.,Glue,18,15
